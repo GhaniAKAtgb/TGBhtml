@@ -1,0 +1,27 @@
+        body 
+            {
+                background-color: #EAF6F6;
+            }
+        hr{
+               border-color: grey;
+               border-style: none;
+               border-top-style: dotted;
+               border-width: 5px;
+               width: 10%;
+         }
+         h1{
+            color: blueviolet;
+         }
+         h3{
+            color: teal;
+         }
+         .School-pic{
+            border-radius: 100px;
+            width: 150px;
+            height: 150px;
+           }
+           .clg-pic{
+            border-radius: 50px;
+            width: 150px;
+            height: 150px;
+           }
